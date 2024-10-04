@@ -109,7 +109,7 @@ function update() {
     context.fillText(score, 5, 45);
 
     if (gameOver) {
-        context.fillText("VITRINGA SIR!", 5, 90);
+        context.fillText("OUT!", 5, 90);
     }
 }
 
